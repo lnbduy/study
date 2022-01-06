@@ -1,11 +1,11 @@
 # Foundation
-•	Code Complete: A Practical Handbook of Software Construction, Second Edition
-•	Clean Code: A Handbook of Agile Software Craftsmanship
-•	Structure and Interpretation of Computer Programs
-•	Design Patterns: Elements of Reusable Object-Oriented Software
-•	Head First Design Patterns
-•	Refactoring: Improving the Design of Existing Code
-•	Working Effectively With Legacy Code
+ ## Code Complete: A Practical Handbook of Software Construction, Second Edition
+ ##	Clean Code: A Handbook of Agile Software Craftsmanship
+ ##	Structure and Interpretation of Computer Programs
+ ##	Design Patterns: Elements of Reusable Object-Oriented Software
+ ##	Head First Design Patterns
+ ##	Refactoring: Improving the Design of Existing Code
+ ##	Working Effectively With Legacy Code
 # Professional Development
 •	The Pragmatic Programmer: From Journeyman to Master
 •	The Clean Coder: A Code of Conduct for Professional Programmers
